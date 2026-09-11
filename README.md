@@ -13,7 +13,7 @@ Building software, researching markets, and exploring the intersection of **math
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 * Student focused on **Software Engineering, Quantitative Research, and AI**
 * Interested in **systematic trading, quantitative finance, and financial markets**
@@ -25,7 +25,7 @@ Building software, researching markets, and exploring the intersection of **math
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <table>
   <tr>
@@ -101,27 +101,24 @@ Building software, researching markets, and exploring the intersection of **math
   </tr>
 
 </table>
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dr-Dre420&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&rank_icon=github" />
+<a href="https://github.com/Dr-Dre420">
+  <img src="https://streak-stats.demolab.com?user=Dr-Dre420&theme=transparent&hide_border=true" />
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-Dre420&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+<br><br>
+
+<a href="https://github.com/Dr-Dre420?tab=repositories">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dr-Dre420&theme=github-compact&hide_border=true&area=true" />
+</a>
 
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dr-Dre420&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Quantitative Research
+## Quantitative Research
 
 My interests in quantitative finance revolve around building **systematic, data-driven approaches to financial markets**.
 
@@ -161,9 +158,9 @@ Production System
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📊 Quantitative Research
+### Quantitative Research
 
 > Systematic research into market data, signals, and trading strategies.
 
