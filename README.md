@@ -22,7 +22,7 @@ Building software, researching markets, and exploring the intersection of **math
 
 ## About Me
 
-Computer Engineering student working at the intersection of **AI/ML, quantitative research, and software engineering**. I build end-to-end systems involving **multimodal RAG, hybrid vector + lexical retrieval, knowledge graphs, computer vision, and agentic AI**, alongside research in **systematic trading, alpha generation, backtesting, and market microstructure**. I enjoy taking problems from **research and experimentation to scalable, production-oriented implementations**, using Python, C/C++, and modern AI development tooling.
+A 3rd year Cyber Physical Systems Engineering student working at the intersection of **AI/ML, quantitative research, and software engineering**. I build end-to-end systems involving **multimodal RAG, hybrid vector + lexical retrieval, knowledge graphs, computer vision, and agentic AI**, alongside research in **systematic trading, alpha generation, backtesting, and market microstructure**. I enjoy taking problems from **research and experimentation to scalable, production-oriented implementations**, using Python, C/C++, and modern AI development tooling.
 
 ---
 
@@ -147,7 +147,6 @@ Computer Engineering student working at the intersection of **AI/ML, quantitativ
       <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
     </td>
   </tr>
-
 </table>
 
 ---
@@ -188,7 +187,6 @@ I use AI as part of the **software development and research workflow**, from arc
       <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
     </td>
   </tr>
-
 </table>
 
 ---
@@ -202,5 +200,3 @@ I use AI as part of the **software development and research workflow**, from arc
 </a>
 
 </div>
-
----
