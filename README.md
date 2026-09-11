@@ -199,15 +199,12 @@ Projects focused on **application development, backend systems, automation, and 
 ## 🎯 Current Focus
 
 ```text
-Quantitative Research        ████████████████░░░░  Researching
-Artificial Intelligence      ███████████████░░░░░  Building
-Machine Learning             █████████████░░░░░░░  Learning
-Software Engineering         ███████████████░░░░░  Building
-Financial Markets             ██████████████░░░░░░  Exploring
-Systems & Infrastructure      ███████████░░░░░░░░░  Learning
-```
-
----
+Quantitative Research      ████████████████░░░░    Researching
+Artificial Intelligence    ███████████████░░░░░    Building
+Machine Learning           ██████████████░░░░░░    Learning
+Software Engineering       ███████████████░░░░░    Building
+Financial Markets          █████████████░░░░░░░    Exploring
+Systems & Infrastructure   ████████████░░░░░░░░    Learning
 
 ## 📚 Currently Learning
 
