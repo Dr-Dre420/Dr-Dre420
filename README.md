@@ -22,13 +22,9 @@ Building software, researching markets, and exploring the intersection of **math
 
 ## About Me
 
-- Student focused on **Software Engineering, Quantitative Research, and AI**
-- Interested in **systematic trading, quantitative finance, and financial markets**
-- Building systems involving **AI agents, RAG, multimodal retrieval, and intelligent applications**
-- Exploring how **data, probability, mathematics, and computation** can be used to build systematic strategies
-- I enjoy turning ideas into **research pipelines, software systems, and working prototypes**
-- Particularly interested in the full research lifecycle — from **hypothesis → feature → backtesting → execution → evaluation**
-- Always looking for problems where **code, mathematics, and data intersect**
+## About Me
+
+Computer Engineering student working at the intersection of **AI/ML, quantitative research, and software engineering**. I build end-to-end systems involving **multimodal RAG, hybrid vector + lexical retrieval, knowledge graphs, computer vision, and agentic AI**, alongside research in **systematic trading, alpha generation, backtesting, and market microstructure**. I enjoy taking problems from **research and experimentation to scalable, production-oriented implementations**, using Python, C/C++, and modern AI development tooling.
 
 ---
 
