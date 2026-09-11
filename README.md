@@ -52,7 +52,7 @@ Computer Engineering student working at the intersection of **AI/ML, quantitativ
     <td>
       <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
       <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
@@ -67,7 +67,7 @@ Computer Engineering student working at the intersection of **AI/ML, quantitativ
       <img src="https://img.shields.io/badge/-LangGraph-4B32C3?style=flat-square&logo=graphql&logoColor=white"/>
       <img src="https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Sentence_Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Qwen--VL-6E56CF?style=flat-square&logo=alibabacloud&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Qwen--VL-6E56CF?style=flat-square&logo=qwen&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Whisper-412991?style=flat-square&logo=openai&logoColor=white"/>
     </td>
   </tr>
@@ -114,7 +114,7 @@ Computer Engineering student working at the intersection of **AI/ML, quantitativ
       <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Convex-000000?style=flat-square&logo=convex&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
     </td>
   </tr>
 
@@ -124,7 +124,7 @@ Computer Engineering student working at the intersection of **AI/ML, quantitativ
       <img src="https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black"/>
       <img src="https://img.shields.io/badge/-mypy-2A6DB2?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Pyright-3776AB?style=flat-square&logo=microsoft&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Pyright-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
   </tr>
 
@@ -142,7 +142,7 @@ Computer Engineering student working at the intersection of **AI/ML, quantitativ
     <td>
       <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
     </td>
@@ -175,7 +175,7 @@ I use AI as part of the **software development and research workflow**, from arc
     <td><b>AI APIs & Models</b></td>
     <td>
       <img src="https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Qwen--VL-6E56CF?style=flat-square&logo=alibabacloud&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Qwen--VL-6E56CF?style=flat-square&logo=qwen&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Whisper-412991?style=flat-square&logo=openai&logoColor=white"/>
     </td>
   </tr>
@@ -201,12 +201,54 @@ I use AI as part of the **software development and research workflow**, from arc
   <img src="https://streak-stats.demolab.com?user=Dr-Dre420&theme=transparent&hide_border=true" />
 </a>
 
-<br><br>
-
-<a href="https://github.com/Dr-Dre420?tab=repositories">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dr-Dre420&theme=github-compact&hide_border=true&area=true" />
-</a>
-
 </div>
 
 ---
+
+## Featured Projects
+
+### Quantitative Research
+
+> Systematic research into market data, signals, and trading strategies.
+
+Research-oriented projects exploring **features, alpha generation, backtesting, statistical evaluation, and strategy development**.
+
+**Focus:** `Python` `Quant Research` `Statistics` `Backtesting` `Market Data`
+
+<a href="https://github.com/Dr-Dre420?tab=repositories">View Projects →</a>
+
+---
+
+### Multimodal Video RAG
+
+> Domain-agnostic multimodal Video Retrieval-Augmented Generation using hybrid retrieval.
+
+A research and engineering platform that transforms raw video into a **temporally grounded multimodal representation**, combining ASR, shot detection, OCR, object detection, VLM descriptions, entities, and events.
+
+Retrieval combines **dense vector search, BM25 lexical retrieval, and a NetworkX knowledge graph** through Reciprocal Rank Fusion before producing grounded answers with timestamps, keyframes, and evidence provenance.
+
+**Focus:** `Python` `RAG` `FAISS` `BM25` `NetworkX` `Qwen-VL` `Whisper` `YOLO` `PaddleOCR` `FastAPI`
+
+<a href="https://github.com/Dr-Dre420/Multimodal-Video-RAG-Hybrid">View Project →</a>
+
+---
+
+### AI / Machine Learning
+
+> Building intelligent systems using data-driven approaches.
+
+Projects exploring **machine learning, multimodal AI, data analysis, retrieval systems, and modern LLM techniques**.
+
+**Focus:** `Python` `Machine Learning` `LLMs` `RAG` `Computer Vision`
+
+<a href="https://github.com/Dr-Dre420?tab=repositories">View Projects →</a>
+
+---
+
+## Philosophy
+
+<div align="center">
+
+> **"First, understand the problem. Then, build the system that solves it."**
+
+</div>
