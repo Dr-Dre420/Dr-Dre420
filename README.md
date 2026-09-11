@@ -58,35 +58,35 @@ Building software, researching markets, and exploring the intersection of **math
     <td>
       <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
       <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-XGBoost-189C37?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-XGBoost-189C37?style=flat-square&logo=xgboost&logoColor=white"/>
     </td>
   </tr>
 
   <tr>
     <td><b>AI & LLM Engineering</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-LangChain-121212?style=flat-square"/>
-      <img src="https://img.shields.io/badge/-LangGraph-4B32C3?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-LangGraph-4B32C3?style=flat-square&logo=graphql&logoColor=white"/>
       <img src="https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Sentence_Transformers-FF6F00?style=flat-square"/>
-      <img src="https://img.shields.io/badge/-Qwen--VL-6E56CF?style=flat-square"/>
-      <img src="https://img.shields.io/badge/-Whisper-412991?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-Sentence_Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Qwen--VL-6E56CF?style=flat-square&logo=alibabacloud&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Whisper-412991?style=flat-square&logo=openai&logoColor=white"/>
     </td>
   </tr>
 
   <tr>
     <td><b>RAG & Retrieval</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-FAISS-005571?style=flat-square"/>
-      <img src="https://img.shields.io/badge/-BM25-6E40C9?style=flat-square"/>
-      <img src="https://img.shields.io/badge/-NetworkX-FF6B35?style=flat-square"/>
-      <img src="https://img.shields.io/badge/-Hybrid_Retrieval-1F6FEB?style=flat-square"/>
-      <img src="https://img.shields.io/badge/-Knowledge_Graphs-238636?style=flat-square"/>
-      <img src="https://img.shields.io/badge/-RRF_Fusion-8250DF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-FAISS-005571?style=flat-square&logo=meta&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-BM25-6E40C9?style=flat-square&logo=elasticsearch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-NetworkX-FF6B35?style=flat-square&logo=networkx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Hybrid_Retrieval-1F6FEB?style=flat-square&logo=databricks&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Knowledge_Graphs-238636?style=flat-square&logo=neo4j&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-RRF_Fusion-8250DF?style=flat-square&logo=python&logoColor=white"/>
     </td>
   </tr>
 
@@ -95,9 +95,9 @@ Building software, researching markets, and exploring the intersection of **math
     <td>
       <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
       <img src="https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-YOLO-111111?style=flat-square"/>
-      <img src="https://img.shields.io/badge/-PaddleOCR-0066FF?style=flat-square"/>
-      <img src="https://img.shields.io/badge/-PySceneDetect-4B5563?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-YOLO-111111?style=flat-square&logo=yolo&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-PaddleOCR-0066FF?style=flat-square&logo=baidu&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-PySceneDetect-4B5563?style=flat-square&logo=python&logoColor=white"/>
     </td>
   </tr>
 
@@ -105,11 +105,11 @@ Building software, researching markets, and exploring the intersection of **math
     <td><b>Quantitative Finance</b></td>
     <td>
       <img src="https://img.shields.io/badge/-Quant_Research-1F6FEB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Backtesting-6E40C9?style=flat-square"/>
-      <img src="https://img.shields.io/badge/-Alpha_Research-238636?style=flat-square"/>
-      <img src="https://img.shields.io/badge/-Market_Microstructure-BD561D?style=flat-square"/>
-      <img src="https://img.shields.io/badge/-Statistical_Modeling-8250DF?style=flat-square"/>
-      <img src="https://img.shields.io/badge/-Algorithmic_Trading-0969DA?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-Backtesting-6E40C9?style=flat-square&logo=chartdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Alpha_Research-238636?style=flat-square&logo=signal&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Market_Microstructure-BD561D?style=flat-square&logo=tradingview&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Statistical_Modeling-8250DF?style=flat-square&logo=scipy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Algorithmic_Trading-0969DA?style=flat-square&logo=tradingview&logoColor=white"/>
     </td>
   </tr>
 
@@ -119,8 +119,8 @@ Building software, researching markets, and exploring the intersection of **math
       <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Convex-000000?style=flat-square"/>
-      <img src="https://img.shields.io/badge/-Pydantic-E92063?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-Convex-000000?style=flat-square&logo=convex&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=python&logoColor=white"/>
     </td>
   </tr>
 
@@ -129,8 +129,8 @@ Building software, researching markets, and exploring the intersection of **math
     <td>
       <img src="https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black"/>
-      <img src="https://img.shields.io/badge/-mypy-2A6DB2?style=flat-square"/>
-      <img src="https://img.shields.io/badge/-Pyright-3776AB?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-mypy-2A6DB2?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Pyright-3776AB?style=flat-square&logo=microsoft&logoColor=white"/>
     </td>
   </tr>
 
@@ -172,8 +172,8 @@ I use AI as part of the **software development and research workflow**, from arc
     <td><b>AI Assistants</b></td>
     <td>
       <img src="https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square"/>
-      <img src="https://img.shields.io/badge/-Antigravity-18181B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Antigravity-18181B?style=flat-square&logo=google&logoColor=white"/>
     </td>
   </tr>
 
@@ -181,32 +181,20 @@ I use AI as part of the **software development and research workflow**, from arc
     <td><b>AI APIs & Models</b></td>
     <td>
       <img src="https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Qwen--VL-6E56CF?style=flat-square"/>
-      <img src="https://img.shields.io/badge/-Whisper-412991?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-Qwen--VL-6E56CF?style=flat-square&logo=alibabacloud&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Whisper-412991?style=flat-square&logo=openai&logoColor=white"/>
     </td>
   </tr>
 
   <tr>
     <td><b>Agentic AI</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-LangChain-121212?style=flat-square"/>
-      <img src="https://img.shields.io/badge/-LangGraph-4B32C3?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-LangGraph-4B32C3?style=flat-square&logo=graphql&logoColor=white"/>
       <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
     </td>
   </tr>
 
-  <tr>
-    <td><b>AI-Assisted Engineering</b></td>
-    <td>
-      <code>Architecture</code>
-      <code>Code Generation</code>
-      <code>Debugging</code>
-      <code>Refactoring</code>
-      <code>Research</code>
-      <code>Documentation</code>
-      <code>Testing</code>
-    </td>
-  </tr>
 </table>
 
 ---
@@ -226,46 +214,6 @@ I use AI as part of the **software development and research workflow**, from arc
 </a>
 
 </div>
-
----
-
-## Quantitative Research
-
-My interests in quantitative finance revolve around building **systematic, data-driven approaches to financial markets**.
-
-### Research Framework
-
-```text
-Market Data
-     │
-     ▼
-Feature Engineering
-     │
-     ▼
-Alpha / Signal Generation
-     │
-     ▼
-Backtesting
-     │
-     ▼
-Risk & Statistical Evaluation
-     │
-     ▼
-Execution Strategy
-     │
-     ▼
-Production System
-```
-
-### Areas of Interest
-
-- **Alpha Research** — identifying predictive signals from market and alternative data
-- **Feature Engineering** — transforming raw data into useful model inputs
-- **Backtesting** — evaluating strategies under realistic assumptions
-- **Market Making** — liquidity provision, spreads, inventory and adverse selection
-- **Execution** — understanding fills, slippage, latency and execution strategy
-- **HFT / MFT** — studying latency, infrastructure and market microstructure
-- **Statistical Modeling** — applying probability, statistics and machine learning to financial data
 
 ---
 
@@ -309,64 +257,10 @@ Projects exploring **machine learning, multimodal AI, data analysis, retrieval s
 
 ---
 
-## Current Focus
-
-```text
-Quantitative Research      ████████████████░░░░    Researching
-Artificial Intelligence    ███████████████░░░░░    Building
-Machine Learning           ██████████████░░░░░░    Learning
-Software Engineering      ███████████████░░░░░    Building
-Financial Markets          █████████████░░░░░░░    Exploring
-AI Systems & RAG           ████████████████░░░░    Building
-```
-
----
-
-## Currently Learning
-
-- Quantitative Finance & Systematic Trading
-- Statistical Modeling & Probability
-- Market Microstructure
-- Alpha Research & Feature Engineering
-- Backtesting & Strategy Evaluation
-- Retrieval-Augmented Generation
-- Multimodal AI & Computer Vision
-- Agentic AI Systems
-- Large Language Model Engineering
-- Data Structures & Algorithms
-- System Design
-- High-Performance Computing
-
----
-
-## Interests
-
-`Quantitative Finance` · `Algorithmic Trading` · `Alpha Research`
-
-`Artificial Intelligence` · `Machine Learning` · `RAG` · `Agentic AI`
-
-`Market Microstructure` · `Data Science` · `Software Engineering`
-
-`Multimodal AI` · `Systems` · `FinTech`
-
----
-
 ## Philosophy
 
 <div align="center">
 
 > **"First, understand the problem. Then, build the system that solves it."**
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting!
-
-Interested in **quantitative research, AI, or building interesting systems?**
-
-Feel free to connect.
 
 </div>
