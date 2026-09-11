@@ -27,42 +27,80 @@ Building software, researching markets, and exploring the intersection of **math
 
 ## 🧰 Tech Stack
 
-### Languages
+<table>
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Technologies</th>
+  </tr>
 
+  <tr>
+    <td><b>💻 Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    </td>
+  </tr>
 
+  <tr>
+    <td><b>📊 Data Science & ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+    </td>
+  </tr>
 
+  <tr>
+    <td><b>📈 Quantitative Finance</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Quant_Research-1F6FEB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Backtesting-6E40C9?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-Alpha_Research-238636?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-Market_Microstructure-BD561D?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-Statistical_Modeling-8250DF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-Algorithmic_Trading-0969DA?style=flat-square"/>
+    </td>
+  </tr>
 
-\
+  <tr>
+    <td><b>🤖 AI & LLM Engineering</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-LangChain-121212?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-LangGraph-4B32C3?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Machine_Learning-F7931E?style=flat-square"/>
+    </td>
+  </tr>
 
-### Quantitative Finance
+  <tr>
+    <td><b>🗄️ Backend & Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Convex-000000?style=flat-square"/>
+    </td>
+  </tr>
 
+  <tr>
+    <td><b>⚙️ Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+    </td>
+  </tr>
 
-
-
-\
-
-**Research:** `Alpha` · `Features` · `Factor Models` · `Backtesting` · `Statistical Modeling`
-
-**Trading:** `Execution Strategy` · `Market Making` · `Delta One` · `MFT` · `HFT`
-
-### AI / Machine Learning
-
-\
-
-`Machine Learning` · `Statistical Learning` · `LLMs` · `Data Analysis`
-
-### Web & Backend
-
-
-
-\
-
-### Tools & Systems
-
-
-
-\
-
+</table>
 ---
 
 ## 📊 GitHub Stats
