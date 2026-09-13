@@ -147,44 +147,13 @@ A 3rd year Cyber Physical Systems Engineering student working at the intersectio
       <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
     </td>
   </tr>
-</table>
-
----
-
-## AI Tools & Development
-
-I use AI as part of the **software development and research workflow**, from architecture and implementation to debugging, experimentation, and iteration.
-
-<table>
-  <tr>
-    <th align="left">Capability</th>
-    <th align="left">Tools</th>
-  </tr>
 
   <tr>
-    <td><b>AI Assistants</b></td>
+    <td><b>AI-Assisted Development</b></td>
     <td>
       <img src="https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Antigravity-18181B?style=flat-square&logo=google&logoColor=white"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>AI APIs & Models</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Qwen--VL-6E56CF?style=flat-square&logo=qwen&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Whisper-412991?style=flat-square&logo=openai&logoColor=white"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Agentic AI</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-LangGraph-4B32C3?style=flat-square&logo=graphql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
     </td>
   </tr>
 </table>
