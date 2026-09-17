@@ -22,7 +22,7 @@ Building software, researching markets, and exploring the intersection of **math
 
 ## About Me
 
-A 3rd year Cyber Physical Systems Engineering student working at the intersection of **AI/ML, quantitative research, and software engineering**. I build end-to-end systems involving **multimodal RAG, hybrid vector + lexical retrieval, knowledge graphs, computer vision, and agentic AI**, alongside research in **systematic trading, alpha generation, backtesting, and market microstructure**. I enjoy taking problems from **research and experimentation to scalable, production-oriented implementations**, using Python, C/C++, and modern AI development tooling.
+Junior Cyber Physical Systems Engineering student with interests spanning **AI/ML, quantitative research, software engineering, and game development**. I work with **Python, C, C++, C#, Embedded C, and Assembly**, and have experience applying these skills to **machine learning, data-driven systems, software development, and quantitative research**. I am particularly interested in **systematic trading, financial markets, algorithmic systems, and intelligent softwares**, with a focus on developing practical solutions through continuous experimentation and learning.
 
 ---
 
