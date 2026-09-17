@@ -151,13 +151,14 @@ I'm a junior year Cyber Physical Systems Engineering student with interests span
   </tr>
 
   <tr>
-    <td><b>AI-Assisted Development</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Antigravity-18181B?style=flat-square&logo=google&logoColor=white"/>
-    </td>
-  </tr>
+  <td><b>AI-Assisted Development</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Antigravity-18181B?style=flat-square&logo=google&logoColor=white"/>
+  </td>
+</tr>
 </table>
 
 ---
