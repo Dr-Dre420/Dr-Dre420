@@ -22,7 +22,7 @@ Building software, researching markets, and exploring the intersection of **math
 
 ## About Me
 
-Junior Cyber Physical Systems Engineering student with interests spanning **AI/ML, quantitative research, software engineering, and game development**. I work with **Python, C, C++, C#, Embedded C, and Assembly**, and have experience applying these skills to **machine learning, data-driven systems, software development, and quantitative research**. I am particularly interested in **systematic trading, financial markets, algorithmic systems, and intelligent softwares**, with a focus on developing practical solutions through continuous experimentation and learning.
+I'm a junior year Cyber Physical Systems Engineering student with interests spanning **AI/ML, quantitative research, software engineering, and game development**. I work with **Python, C, C++, C#, Embedded C, and Assembly**, and have experience applying these skills to **machine learning, data-driven systems, software development, and quantitative research**. I am particularly interested in **systematic trading, financial markets, algorithmic systems, and intelligent softwares**, with a focus on developing practical solutions through continuous experimentation and learning.
 
 ---
 
